@@ -179,3 +179,5 @@ class Game:
         return False
 
 
+g = Game()
+g.play()
